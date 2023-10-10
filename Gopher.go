@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-func main ()
-{
+func main (){
 fmt.Println("    `.-::::::-.`    ")
 fmt.Println(".:-::::::::::::::-:.")
 fmt.Println("`_:::    ::    :::_`")
